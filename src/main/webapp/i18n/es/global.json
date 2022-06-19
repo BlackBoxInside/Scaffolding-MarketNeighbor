@@ -7,13 +7,13 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entidades",
-        "documentType": "Document Type",
-        "client": "Client",
-        "order": "Order",
-        "orderDetails": "Order Details",
-        "product": "Product",
-        "category": "Category",
-        "payment": "Payment",
+        "documentType": "Tipos de documento",
+        "client": "Clientes",
+        "order": "Ordenes",
+        "orderDetails": "Detalles de orden",
+        "product": "Productos",
+        "category": "Categorías",
+        "payment": "Pagos",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
@@ -90,7 +90,7 @@
       "id": "ID"
     },
     "ribbon": {
-      "dev": "Development"
+      "dev": "Desarrollo"
     },
     "item-count": "Mostrando {{first}} - {{second}} de {{total}} elementos."
   },
