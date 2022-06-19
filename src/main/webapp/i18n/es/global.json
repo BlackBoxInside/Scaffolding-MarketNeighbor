@@ -7,7 +7,7 @@
       "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
       "entities": {
         "main": "Entidades",
-        "documentType": "Tipo de documento",
+        "documentType": "Tipos de documento",
         "client": "Cliente",
         "order": "Orden",
         "orderDetails": "Detalles de orden",
