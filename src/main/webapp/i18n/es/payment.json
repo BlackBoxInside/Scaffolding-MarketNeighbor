@@ -2,27 +2,27 @@
   "marketNeighborApp": {
     "payment": {
       "home": {
-        "title": "Payments",
+        "title": "Pagos",
         "refreshListLabel": "Refrescar lista",
-        "createLabel": "Crear nuevo Payment",
-        "createOrEditLabel": "Crear o editar Payment",
-        "notFound": "Ningún Payments encontrado"
+        "createLabel": "Crear nuevo Pago",
+        "createOrEditLabel": "Crear o editar Pago",
+        "notFound": "Ningún Pago encontrado"
       },
-      "created": "Un nuevo Payment ha sido creado con el identificador {{ param }}",
-      "updated": "Un Payment ha sido actualizado con el identificador {{ param }}",
+      "created": "Un nuevo Pago ha sido creado con el identificador {{ param }}",
+      "updated": "Un Pago ha sido actualizado con el identificador {{ param }}",
       "deleted": "Un Payment ha sido eliminado con el identificador {{ param }}",
       "delete": {
-        "question": "¿Seguro que quiere eliminar Payment {{ id }}?"
+        "question": "¿Seguro que quiere eliminar el Pago {{ id }}?"
       },
       "detail": {
-        "title": "Payment"
+        "title": "Pago"
       },
       "id": "ID",
-      "date": "Date",
+      "date": "Fecha",
       "iva": "Iva",
       "total": "Total",
-      "payment": "Payment",
-      "order": "Order"
+      "payment": "Pago",
+      "order": "Orden"
     }
   }
 }
