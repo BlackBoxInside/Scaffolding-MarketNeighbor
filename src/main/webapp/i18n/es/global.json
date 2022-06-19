@@ -8,12 +8,12 @@
       "entities": {
         "main": "Entidades",
         "documentType": "Tipos de documento",
-        "client": "Cliente",
-        "order": "Orden",
+        "client": "Clientes",
+        "order": "Ordenes",
         "orderDetails": "Detalles de orden",
-        "product": "Producto",
-        "category": "Categoría",
-        "payment": "Pago",
+        "product": "Productos",
+        "category": "Categorías",
+        "payment": "Pagos",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {
