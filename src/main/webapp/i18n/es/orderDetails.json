@@ -2,7 +2,7 @@
   "marketNeighborApp": {
     "orderDetails": {
       "home": {
-        "title": "Order Details",
+        "title": "Detalles de orden",
         "refreshListLabel": "Refrescar lista",
         "createLabel": "Crear nuevo Order Details",
         "createOrEditLabel": "Crear o editar Order Details",
