@@ -2,8 +2,8 @@
   "marketNeighborApp": {
     "OrderStatus": {
       "null": "",
-      "PLACED": "PedidoRealizado",
-      "CANCELED": "PedidoCancelado"
+      "PLACED": "Pedido Realizado",
+      "CANCELED": "Pedido Cancelado"
     }
   }
 }

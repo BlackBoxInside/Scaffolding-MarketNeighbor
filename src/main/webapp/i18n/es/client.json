@@ -2,34 +2,34 @@
   "marketNeighborApp": {
     "client": {
       "home": {
-        "title": "Clients",
+        "title": "Clientes",
         "refreshListLabel": "Refrescar lista",
-        "createLabel": "Crear nuevo Client",
-        "createOrEditLabel": "Crear o editar Client",
-        "notFound": "Ningún Clients encontrado"
+        "createLabel": "Crear nuevo Cliente",
+        "createOrEditLabel": "Crear o editar Cliente",
+        "notFound": "Ningún Cliente encontrado"
       },
-      "created": "Un nuevo Client ha sido creado con el identificador {{ param }}",
-      "updated": "Un Client ha sido actualizado con el identificador {{ param }}",
-      "deleted": "Un Client ha sido eliminado con el identificador {{ param }}",
+      "created": "Un nuevo Cliente ha sido creado con el identificador {{ param }}",
+      "updated": "Un Cliente ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Cliente ha sido eliminado con el identificador {{ param }}",
       "delete": {
-        "question": "¿Seguro que quiere eliminar Client {{ id }}?"
+        "question": "¿Seguro que quiere eliminar el Cliente {{ id }}?"
       },
       "detail": {
-        "title": "Client"
+        "title": "Cliente"
       },
       "id": "ID",
-      "address": "Address",
-      "phoneNumber": "Phone Number",
-      "firstName": "First Name",
-      "secondName": "Second Name",
-      "lastName": "Last Name",
-      "secondLastName": "Second Last Name",
-      "sexType": "Sex Type",
-      "email": "Email",
-      "documentNumber": "Document Number",
-      "user": "User",
-      "order": "Order",
-      "documentType": "Document Type"
+      "address": "Dirección",
+      "phoneNumber": "Número de telefono",
+      "firstName": "Primer nombre",
+      "secondName": "Segundo nombre",
+      "lastName": "Primer apellido",
+      "secondLastName": "Segundo apellido",
+      "sexType": "Género",
+      "email": "Correo electrónico",
+      "documentNumber": "Número de documento",
+      "user": "Usuario",
+      "order": "Orden",
+      "documentType": "Tipo de documento"
     }
   }
 }
